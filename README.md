@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuzzJoel# 
+👋 Hi, I’m @JuzzJoel# 
 
 I'm curious and a young Nigerian Software Engineer in training, grinding code and crafting dreams. Yoruba by blood, builder by nature. Currently navigating the world of **JavaScript** and **Python**, one bug at a time.
 - 👀 I’m interested in **web development**, **open source**, and using tech to solve real-world problems — especially in Africa.
